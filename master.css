@@ -1,0 +1,127 @@
+.color-black {
+   width: 300px; 
+   height: 40px;
+    background-color: black;
+    margin-left: 100px;
+    padding: 5px;
+}
+.color-white {
+    height: 40px;
+    width: 300px;
+    background-color:white;
+    margin-left: 100px;
+    padding: 5px;
+}
+.color-green  {
+    height: 40px;
+    width: 300px;
+    background-color:green;
+    margin-left: 100px;
+    padding: 5px;
+}
+.color-red {
+    margin-bottom: 20px;
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 76px;
+    border-color: transparent transparent transparent red;
+    margin-top: -151px;
+    margin-left: 100px;
+}
+.free {
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 450px;
+    height: 120px;
+   background-color: #eee;
+}
+.Name {
+    padding: 10px;
+    width: 300px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    font-size: 14px;
+    color: black
+    
+}
+.STAND {
+    padding: 10px;
+    margin-left: 10px;
+    width: 300px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.palastine {
+    padding: 0px;
+    width: 300px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.red-mr {
+    height: 5px;
+    width: 80px;
+    background-color: red;
+    margin-top: -130px;
+    margin-left: 350px;
+    padding: 5px;
+}
+.green-mr {
+    height: 30px;
+    width: 80px;
+    background-color: green;
+    margin-top: -1px;
+    margin-left: 350px;
+    padding: 5px;
+}
+.red-mr1 {
+    height: 5px;
+    width: 80px;
+    background-color: red;
+    margin-top: -10px;
+    margin-left: 350px;
+    padding: 5px;  
+}
+.nejma { 
+    width: 20px;
+    height: 5px;  
+    margin-top: -43px;
+    margin-left: 380px;
+    padding: 5px; 
+    background-color: yellow;
+    clip-path:polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)
+
+}
+.hilal {
+    position: relative;
+    left: 376px;
+    top: calc(-15px - -20px);
+    transform: translate(-0%, -83%);
+    width: 40px;
+    height: 40px;
+    border: solid 5.5px yellow;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-radius: 50%;
+}
+.palastine {
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.USA {
+    height: 400px;
+    margin-left: 200px;
+    background-image: url(/Screenshot_20231023_094802_Facebook.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
